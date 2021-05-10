@@ -1,0 +1,23 @@
+{
+  "name": "keneth_esta_bien0.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kenethhueco.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenethSandoval/keneth_esta_bien0.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenethSandoval/keneth_esta_bien0.0/issues"
+  },
+  "homepage": "https://github.com/KenethSandoval/keneth_esta_bien0.0#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
